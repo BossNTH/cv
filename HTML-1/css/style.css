@@ -1,25 +1,52 @@
 body {
-    background-color: gray;
-}
-head {
-    color: rgb(248, 173, 103);
-}
-hr {
-    background-color: gray;
+    background-color: #e0ebe8;
+  }
+  
+  hr {
+    border-style: none;
+    background-color: #e0ebe8;
     border-style: dotted;
+    border-width: 10px;
+    border-width: #7a7474 ;
     border-top: none;
-    border-left: none;
-    border-right: none;
-    border-width: 7px;
-    border-color: gray);
-    width: 30%;
-}
-h1 {
-    color: khaki;
-}
-#id {
-    background-color: rgb(100, 99, 99);
-}
-.class{
-    background-color: rgb(88, 88, 88);
-}
+  
+    width: 5%;
+  }
+  
+  img {
+    height: 200px;
+  }
+  
+  #id {
+    background-color: #a3d1cb;
+    color: #298797;
+  
+  }
+  
+  .class {
+    background-color: #5cb3a7;
+    color: #bd3a3a;
+  
+  }
+  
+  body {
+      
+      color: #7a7474;
+  
+  }
+  
+  h1 {
+  
+    color: #1e836c;
+  }
+  
+  h3 {
+   
+    color: #1e836c;
+  }
+  
+  p {
+  
+    color: #1e836c;
+  }
+  
