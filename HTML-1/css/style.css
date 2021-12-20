@@ -17,3 +17,9 @@ hr {
 h1 {
     color: khaki;
 }
+#id {
+    background-color: rgb(100, 99, 99);
+}
+.class{
+    background-color: rgb(88, 88, 88);
+}
