@@ -1,0 +1,44 @@
+body {
+    background-color: #e0ebe8;
+  }
+  
+  hr {
+    border-style: none;
+    background-color: #e0ebe8;
+    border-style: dotted;
+    border-width: 10px;
+    border-width: #7a7474 ;
+    border-top: none;
+  
+    width: 5%;
+  }
+  
+  img {
+    height: 200px;
+  }
+  
+  #id {
+    background-color: #a3d1cb;
+    color: #298797;
+  
+  }
+  
+  body {
+      
+      color: #7a7474;
+  
+  }
+  
+  h3 {
+   
+    color: #1e836c;
+  }
+  
+  p {
+  
+    color: #1e836c;
+  }
+  .class{
+      color: #bd3a3a;
+      background-color: #bd933a;
+  }
